@@ -3,7 +3,7 @@ color:darkblue;
 }
 
 td a:hover{
-color:red;
+color:black;
 
 }
 
@@ -19,11 +19,11 @@ src: url(MTCORSVA.woff);
 	font-size: 25px;
 }
 #loginform {
-	margin: 150px auto;
-	width: 280px;
+	margin: 120px auto;
+	width: 210px;
 }
 #loginform span {
-	width: 100px;
+	width: 150px;
 	display: inline-block;
 }
 #ac span {
@@ -34,34 +34,34 @@ src: url(MTCORSVA.woff);
 	padding-right: 10px;
 }
 select {
-	border: 1px solid #999;
-	background: #EEEEEE;
-	padding: 5px 10px;
-	box-shadow:0 1px 2px #ddd;
+	border: 5px solid #999;
+	background: #ffff;
+	padding: 15px 12px;
+	box-shadow:0 2px 3px #ddd;
     -moz-box-shadow:0 1px 2px #ddd;
     -webkit-box-shadow:0 1px 2px #ddd;
 }
 
 .qwe{
-width:246px;
+width:216px;
 margin:auto;
 }
 
 input {
 	border: 1px solid #999;
-	background: #EEEEEE;
+	background:#ffff;
 	padding: 10px;
-	box-shadow:0 1px 2px #ddd;
+	box-shadow:0 2px 3px #ddd;
     -moz-box-shadow:0 1px 2px #ddd;
     -webkit-box-shadow:0 1px 2px #ddd;
 }
 #btn {
-	width:100px;
+	width:120px;
 	background: green;
 	border: 1px solid #999;
 	border-radius:10px;
 	cursor: pointer;
-	font-size: 13px;
+	font-size: 16px;
     font-weight: bold;
 }
 #maintable {
